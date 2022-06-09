@@ -1,5 +1,5 @@
 # Habilidades
-Neste projeto, verificamos se voce é capaz de:
+Neste projeto, foi desenvolvido as habilidades de:
 
   * Criar um store Redux em aplicações React
 
