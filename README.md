@@ -14,6 +14,6 @@ Neste projeto, foi desenvolvido as habilidades de:
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
   
   ## Para rodar o projeto:
-  -Fazer um fork
-  -Executar o comando npm install
-  -Executar o comando npm start
+  * Fazer um fork 
+  * Executar o comando npm install
+  * Executar o comando npm start
