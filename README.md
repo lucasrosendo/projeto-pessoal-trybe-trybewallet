@@ -14,6 +14,6 @@ Neste projeto, foi desenvolvido as habilidades de:
   * Criar actions assíncronas na sua aplicação React que faz uso de Redux.
   
   ## Para rodar o projeto:
-  * Fazer uma copia SSH  git@github.com:lucasrosendo/projeto-pessoal-trybe-trybewallet.git
+  * Fazer uma copia SSH  ```git@github.com:lucasrosendo/projeto-pessoal-trybe-trybewallet.git```
   * Executar o comando npm install
   * Executar o comando npm start
